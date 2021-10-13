@@ -7,13 +7,29 @@ dependencies:
   - r-base=4.0.1
   - python=3.8.8
   - r-dplyr
+  - r-functional
   - r-ggplot2
+  - r-ggrepel  
+  - r-gplots
   - r-reshape2
-  - r-tidyverse
   - r-shiny
+  - r-statmod
+  - r-stringr
+  - r-tidyverse
+  - bioconductor-bayseq
+  - bioconductor-clusterprofiler
+  - bioconductor-deseq
+  - bioconductor-deseq2  
+  - bioconductor-dose
+  - bioconductor-edger
+  - bioconductor-limma
+  - bioconductor-org.hs.eg.db  
+  - bioconductor-qvalue
+  - bioconductor-rgraphviz
+  - bioconductor-topgo
   - pip
   - pip:
-    - pandas
-    - matplotlib
-    - numpy
-    - scipy
+      - matplotlib
+      - numpy
+      - pandas
+      - scipy
